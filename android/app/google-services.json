@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074508198089",
+    "project_id": "sonashi-app",
+    "storage_bucket": "sonashi-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074508198089:android:4686b70410e444c1cadd18",
+        "android_client_info": {
+          "package_name": "com.example.sonashi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOHA5VzCUp_h2NShGhDmEQkbREVABE9UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
